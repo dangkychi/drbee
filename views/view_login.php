@@ -3,9 +3,9 @@
 /**
  * HỆ THỐNG TRẮC NGHIỆM ONLINE
  * View Login
- * @author: Nong Van Du (Dzu)
- * Mail: dzu6996@gmail.com
- * @link https://github.com/meesudzu/trac-nghiem-online
+ * @author: Dang Ky Chi
+ * Mail: dangkychi@gmail.com
+ * @link https://github.com/dangkychi/drbee
  **/
 
 class View_Login

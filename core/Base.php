@@ -2,11 +2,11 @@
 
 /**
  * HỆ THỐNG TRẮC NGHIỆM ONLINE
- * Base Function
- * @author: Nong Van Du (Dzu)
- * Mail: dzu6996@gmail.com
- * @link https://github.com/meesudzu/trac-nghiem-online
- **/
+ * Install Wizard
+ * @author: Dang Ky Chi
+ * Mail: dangkychi@gmail.com
+ * @link https://github.com/dangkychi/drbee
+ */
 
 class Base
 {
