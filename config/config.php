@@ -11,12 +11,12 @@
 class Config
 {
     const TITLE = 'Hệ Thống Trắc Nghiệm Online';
-    const COPYRIGHT = "Copyright © 2016 Nong Van Du";
-    const VERSION = "3.4.3";
-    const OWNER = "Nông Văn Du (Dzu)";
+    const COPYRIGHT = "Copyright © 2025 Dang Ky Chi";
+    const VERSION = "1.0.0";
+    const OWNER = "Đặng Kỳ Chi";
     const CONTRIBUTOR = "";
-    const EMAIL = "dzu6996@gmail.com";
-    const RELEASE = "15/05/2020";
-    const TIMEZONE = "Asia/Bangkok";
-    const APP_URL = "http://localhost/";
+    const EMAIL = "dangkychi@gmail.com";
+    const RELEASE = "10/01/2025";
+    const TIMEZONE = "Asia/Ho_Chi_Minh";
+    const APP_URL = "http://practice.test/";
 }

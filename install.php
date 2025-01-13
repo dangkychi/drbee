@@ -5,7 +5,7 @@
  * Install Wizard
  * @author: Dang Ky Chi
  * Mail: dangkychi@gmail.com
- * @link https://github.com/meesudzu/trac-nghiem-online
+ * @link https://github.com/dangkychi/drbee
  */
 
 error_reporting(0);
@@ -152,7 +152,7 @@ class install
         echo "Mật khẩu: <b>123456</b> <br />";
         echo "Vui lòng đăng nhập và đổi mật khẩu ngay sau khi đăng nhập. <br />";
         echo 'Mọi thông tin chi tiết, hỗ trợ, góp ý, báo lỗi,<br />';
-        echo"vui lòng liên hệ <span class='pass'>dzu6996@gmail.com</span> hoặc trực tiếp trang chính thức sản phẩm <a href='https://github.com/meesudzu/trac-nghiem-online'>TẠI ĐÂY</a>
+        echo"vui lòng liên hệ <span class='pass'>dangkychi@gmail.com</span> hoặc trực tiếp trang chính thức sản phẩm <a href='https://github.com/dangkychi/drbee'>TẠI ĐÂY</a>
         <br /><br />";
         echo '<a href="index.php" class="waves-effect waves-light btn">KẾT THÚC</a>';
     }
@@ -172,7 +172,7 @@ class install
         echo "Vui lòng đăng nhập và đổi mật khẩu ngay sau khi đăng nhập. <br />";
         echo "Sửa URL trang web trong config/config.php <br />";
         echo 'Mọi thông tin chi tiết, hỗ trợ, góp ý, báo lỗi,<br />';
-        echo"vui lòng liên hệ <span class='pass'>dzu6996@gmail.com</span> hoặc trực tiếp trang chính thức sản phẩm <a href='https://github.com/meesudzu/trac-nghiem-online'>TẠI ĐÂY</a>
+        echo"vui lòng liên hệ <span class='pass'>dangkychi@gmail.com</span> hoặc trực tiếp trang chính thức sản phẩm <a href='https://github.com/dangkychi/drbee'>TẠI ĐÂY</a>
         <br /><br />";
         echo '<a href="index.php" class="waves-effect waves-light btn">KẾT THÚC</a>';
     }
@@ -266,7 +266,7 @@ return (object) array('host' => '".$this->connect_info['host']."','user' => '".$
     <div class="navbar-fixed">
         <nav>
             <div class="nav-wrapper nav-green" style="text-align: center">
-                <span style="font-weight: 100; font-size: 20px">Cài Đặt Hệ Thống Trắc Nghiệm Online</span>
+                <span style="font-weight: 100; font-size: 20px">Cài Đặt Hệ Thống</span>
             </div>
         </nav>
     </div>
@@ -281,8 +281,8 @@ return (object) array('host' => '".$this->connect_info['host']."','user' => '".$
         Bản quyền tác giả:<br />
         <a><b>'.Config::OWNER.'</b></a><br />
         Email: <a href="mailto:'.Config::EMAIL.'">'.Config::EMAIL.'</a><br />
-        GitHub: <a href="https://github.com/meesudzu/trac-nghiem-online">https://github.com/meesudzu/trac-nghiem-online</a><br />
-        Dự án được phát triển và chia sẻ với mục đích phi lợi nhuận.<br />Bản quyền thuộc <a href="https://github.com/meesudzu/trac-nghiem-online/blob/master/LICENSE">MIT License</a><br />
+        GitHub: <a href="https://github.com/dangkychi/drbee">https://github.com/dangkychi/drbee</a><br />
+        Dự án được phát triển và chia sẻ với mục đích phi lợi nhuận.<br />Bản quyền thuộc <a href="https://github.com/dangkychi/drbee">MIT License</a><br />
         Chân thành cảm ơn những email đóng góp ý kiến và báo lỗi của mọi người. Hy vọng sẽ ngày càng nhận được nhiều hơn nữa những email góp ý, nhất là những người đang làm và tiếp xúc trực tiếp với môi trường giáo dục. Một lần nữa, chân thành cảm ơn mọi người.<br />
         Mọi đóng góp xin liên hệ email tác giả.<br />
         Dự án có sử dụng một số sản phẩm mã nguồn mở:
